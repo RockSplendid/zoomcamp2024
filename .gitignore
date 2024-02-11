@@ -172,6 +172,6 @@ scratch*
 *.json
 
 # Mage files
-module_*/*.env
-module_*/*.json
-module_*/mage_data
+module*/*.env
+module*/*.json
+module*/mage_data
